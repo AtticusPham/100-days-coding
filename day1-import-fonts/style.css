@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@font-face {
+    font-family: Roboto;
+    src: url("fonts/Roboto-Regular.ttf"),
+         url("fonts/AkayaTelivigala-Regular.ttf");
+}
+@font-face {
+    font-family: AkayaTelivigala;
+    src:          url("fonts/AkayaTelivigala-Regular.ttf");
+}
+.my-name-is-roboto {
+    font-family: Roboto;
+    font-size: 2em;
+    color: rgb(252, 0, 0);
+}
+.my-name-is-akaya-telivigala {
+    font-family: AkayaTelivigala;
+    font-size: 1.9em;
+    color: #555;
+}
